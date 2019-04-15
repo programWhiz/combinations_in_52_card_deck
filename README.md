@@ -1,6 +1,7 @@
 # Combinations in a 52 card deck
 
 ### Here is the script output:
+```
 Drops in Ocean: 2.772E+25
 Steps around earth: 4.000E+07
 Years to circle earth: 4.000E+19
@@ -15,3 +16,4 @@ Years to pluto: 8.316E+59
 Secs to pluto: 2.623E+67
 Total combinations in 52!: 8.066E+67
 How many times to 52!: 3.08
+```
